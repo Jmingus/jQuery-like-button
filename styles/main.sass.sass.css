@@ -3587,3 +3587,16 @@ ul.dropdown li.divider {
     max-width: 100% !important; }
   select {
     background: #fff !important; } }
+
+body {
+  padding: 5em 0; }
+
+button {
+  border-color: #24A03D;
+  border-radius: 2px;
+  height: 5em;
+  width: 15em;
+  font-size: 20px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 3em; }
